@@ -43,3 +43,10 @@ Whether you're a student, fresher, job seeker, or HR pro — this tool helps you
 │   └── screenshots/
 ├── .env
 └── README.md
+
+
+```
+
+# Link of the video in which the working is stated: 
+
+https://www.linkedin.com/posts/sumit-bedre-985958235_ai-resumebuilder-jobsearch-activity-7355971722732326916-fwcf?utm_source=share&utm_medium=member_desktop&rcm=ACoAADqyDHUBhrpYbVeNmQNnGi8NF4CDl9sQ8x4
